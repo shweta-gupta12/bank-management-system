@@ -15,8 +15,6 @@ This application provides banking operations for users and management functional
 - MySQL Database
 - HTML
 - CSS
-- Apache Tomcat Server
-- Maven
 
 ---
 
@@ -77,4 +75,3 @@ JDBC is used for establishing connectivity between Java application and MySQL.
 ## 👩‍💻 Developed By
 
 Shweta Gupta  
-Java Full Stack Developer Fresher
