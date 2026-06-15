@@ -64,9 +64,6 @@ JDBC is used for establishing connectivity between Java application and MySQL.
 
 ##  Future Improvements
 
-- OTP verification
-- Mini statement PDF
-- Email notification
 - Password encryption
 - Responsive UI enhancement
 
