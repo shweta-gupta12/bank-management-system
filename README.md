@@ -6,7 +6,7 @@ This application provides banking operations for users and management functional
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Core Java
 - JDBC
@@ -18,9 +18,9 @@ This application provides banking operations for users and management functional
 
 ---
 
-## ✨ Project Features
+##  Project Features
 
-### 👤 User Module
+###  User Module
 - User Registration
 - User Login
 - Open Bank Account
@@ -31,7 +31,7 @@ This application provides banking operations for users and management functional
 - View Personal Transactions
 - Logout
 
-### 👨‍💼 Admin Module
+###  Admin Module
 - Admin Login
 - View All Customers
 - Search Customer by Account Number
@@ -40,7 +40,7 @@ This application provides banking operations for users and management functional
 
 ---
 
-## 🗄 Database Connectivity
+##  Database Connectivity
 
 MySQL is used as backend database for storing:
 
@@ -52,7 +52,7 @@ JDBC is used for establishing connectivity between Java application and MySQL.
 
 ---
 
-## ▶️ How to Run This Project
+##  How to Run This Project
 
 1. Clone the repository
 2. Import project as Maven Project in Eclipse IDE
@@ -62,7 +62,7 @@ JDBC is used for establishing connectivity between Java application and MySQL.
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - OTP verification
 - Mini statement PDF
@@ -72,6 +72,6 @@ JDBC is used for establishing connectivity between Java application and MySQL.
 
 ---
 
-## 👩‍💻 Developed By
+##  Developed By
 
 Shweta Gupta  
